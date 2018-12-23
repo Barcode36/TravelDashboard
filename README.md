@@ -1,4 +1,4 @@
-#README
+# README
 
 Quick overview:
 
@@ -8,7 +8,7 @@ Quick overview:
 
 ---
 
-##TO MARKERS, PLEASE NOTE THAT BEFORE CHECKING THE CODE:
+## TO MARKERS, PLEASE NOTE THAT BEFORE CHECKING THE CODE:
 
 The software's database is a temporary solution running from outside the university, and is blocked by the university fire wall due to security reason. The final solution is that Atos will use their own database, and the corresponding update will be done by Atos technical team. This is extremely important because you cannot directly run the software without database.
 
@@ -19,7 +19,7 @@ A runnable .exe file for Windows system is included in TravelDashboard/
 Or, there are two demo videos showing how the system works embedded in the open day's Prezi presentation file. The link is:
 http://prezi.com/7dcthzh6e37w/?utm_campaign=share&utm_medium=copy&rc=ex0share
 
-##General Information
+## General Information
 
 Git link:
 
