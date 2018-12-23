@@ -1,0 +1,81 @@
+#apUploadCentre {
+	-fx-background-color: white;
+	-fx-background-radius: 15;
+}
+
+
+.table-view {
+ 	-fx-background-insets: 0;
+}
+.table-view:focused {
+   -fx-background-color: #bfcfb2 -fx-focus-color,-fx-box-border,-fx-control-inner-background;
+   -fx-background-insets: 0;
+}
+
+.table-view .column-header {
+	-fx-pref-height: 40px;
+    -fx-background-color: linear-gradient(#79bc76, #9acd98);
+}
+
+.table-view .table-cell {
+    -fx-text-fill: black;
+}
+
+.table-row-cell {
+    -fx-background-insets: 0;
+}
+
+.table-row-cell:hover {
+    -fx-cursor: hand;
+    -fx-background-color: linear-gradient(#9acd98, #79bc76);
+}
+
+.table-row-cell:selected {
+    -fx-background-color: linear-gradient(#bcddbb, #ddeedd);
+}
+
+#removeButton {
+    -fx-background-color: linear-gradient(#bcddbb, #ddeedd);
+    -fx-background-radius: 25;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#removeButton:hover {
+	-fx-background-color: linear-gradient(#9acd98, #79bc76);
+}
+
+#fileType {
+	-fx-background-color: linear-gradient(#bcddbb, #ddeedd);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#fileType:hover {
+	-fx-cursor: hand;
+	-fx-background-color: linear-gradient(#9acd98, #79bc76);
+}
+#fileType .list-view {
+    -fx-background-insets: 0;
+}
+#fileType .list-view .list-cell:selected  {
+ 	-fx-background-color: linear-gradient(#bcddbb, #ddeedd);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+	-fx-text-fill: #4d4d4d;
+}
+#fileType .list-view .list-cell:hover  {
+ 	-fx-background-color: linear-gradient(#9acd98, #79bc76);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+	-fx-text-fill: #4d4d4d;
+}
+
+#uploadFile {
+    -fx-background-color: linear-gradient(#bcddbb, #ddeedd);
+    -fx-background-radius: 25;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#uploadFile:hover {
+	-fx-background-color: linear-gradient(#9acd98, #79bc76);
+}

@@ -1,0 +1,55 @@
+.button {
+	-fx-cursor: hand;
+}
+
+#changePage {
+	-fx-text-fill: #2165a1;
+}
+
+
+#changePage:hover {
+	-fx-cursor: hand;
+	-fx-underline: true;
+}
+
+#askPasswordForgotten {
+	-fx-text-fill: red;
+}
+
+
+#askPasswordForgotten:hover {
+	-fx-cursor: hand;
+	-fx-underline: true;
+}
+
+#apLogin {
+	-fx-background-color: white;
+	-fx-background-radius: 15;
+}
+
+#apSignup {
+	-fx-background-color: white;
+	-fx-background-radius: 15;
+}
+
+.text-input {
+	-fx-background-color: #f4f4f4;
+}
+
+#loginButton {
+	-fx-background-color: #f4f4f4;
+    -fx-background-radius: 25;
+}
+
+#loginButton:hover {
+	-fx-background-color: #e3e3e3;
+}
+
+#signupButton {
+	-fx-background-color: #f4f4f4;
+    -fx-background-radius: 25;
+}
+
+#signupButton:hover {
+	-fx-background-color: #e3e3e3;
+}

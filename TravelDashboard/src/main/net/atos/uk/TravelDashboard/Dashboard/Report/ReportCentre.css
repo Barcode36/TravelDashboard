@@ -1,0 +1,128 @@
+#apReportCentre {
+	-fx-background-color: white;
+	-fx-background-radius: 15;
+}
+
+#wbsNumberOptions {
+	-fx-background-color: linear-gradient(#f3bea5, #f9ded2);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#wbsNumberOptions:hover {
+	-fx-cursor: hand;
+	-fx-background-color: linear-gradient(#ed9d78, #e87c4a);
+}
+#wbsNumberOptions .list-view {
+    -fx-background-insets: 0;
+}
+#wbsNumberOptions .list-view .list-cell:selected  {
+ 	-fx-background-color: linear-gradient(#f3bea5, #f9ded2);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+	-fx-text-fill: #4d4d4d;
+}
+#wbsNumberOptions .list-view .list-cell:hover  {
+ 	-fx-background-color: linear-gradient(#ed9d78, #e87c4a);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+	-fx-text-fill: #4d4d4d;
+}
+
+#totalOrPerson {
+	-fx-background-color: linear-gradient(#f3bea5, #f9ded2);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#totalOrPerson:hover {
+	-fx-cursor: hand;
+	-fx-background-color: linear-gradient(#ed9d78, #e87c4a);
+}
+#totalOrPerson .list-view {
+    -fx-background-insets: 0;
+}
+#totalOrPerson .list-view .list-cell:selected  {
+ 	-fx-background-color: linear-gradient(#f3bea5, #f9ded2);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+	-fx-text-fill: #4d4d4d;
+}
+#totalOrPerson .list-view .list-cell:hover  {
+ 	-fx-background-color: linear-gradient(#ed9d78, #e87c4a);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+	-fx-text-fill: #4d4d4d;
+}
+
+#personOptions {
+	-fx-background-color: linear-gradient(#f3bea5, #f9ded2);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#personOptions:hover {
+	-fx-cursor: hand;
+	-fx-background-color: linear-gradient(#ed9d78, #e87c4a);
+}
+#personOptions .list-view {
+    -fx-background-insets: 0;
+}
+#personOptions .list-view .list-cell:selected  {
+ 	-fx-background-color: linear-gradient(#f3bea5, #f9ded2);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+	-fx-text-fill: #4d4d4d;
+}
+#personOptions .list-view .list-cell:hover  {
+ 	-fx-background-color: linear-gradient(#ed9d78, #e87c4a);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+	-fx-text-fill: #4d4d4d;
+}
+
+#timeOptions {
+	-fx-background-color: linear-gradient(#f3bea5, #f9ded2);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#timeOptions:hover {
+	-fx-cursor: hand;
+	-fx-background-color: linear-gradient(#ed9d78, #e87c4a);
+}
+#timeOptions .list-view {
+    -fx-background-insets: 0;
+}
+#timeOptions .list-view .list-cell:selected  {
+ 	-fx-background-color: linear-gradient(#f3bea5, #f9ded2);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+	-fx-text-fill: #4d4d4d;
+}
+#timeOptions .list-view .list-cell:hover  {
+ 	-fx-background-color: linear-gradient(#ed9d78, #e87c4a);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+	-fx-text-fill: #4d4d4d;
+}
+
+#generateReportButton {
+    -fx-background-color: linear-gradient(#f3bea5, #f9ded2);
+    -fx-background-radius: 20;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#generateReportButton:hover {
+	-fx-background-color: linear-gradient(#ed9d78, #e87c4a);
+}
+
+#generatePDF {
+    -fx-background-color: linear-gradient(#f3bea5, #f9ded2);
+    -fx-background-radius: 20;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#generatePDF:hover {
+	-fx-background-color: linear-gradient(#ed9d78, #e87c4a);
+}

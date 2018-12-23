@@ -1,0 +1,128 @@
+#apDashboard {
+	-fx-background-color: white;
+	-fx-background-radius: 15;
+}
+
+#apLastestAvtivities {
+	-fx-background-color: white;
+	-fx-background-radius: 15;
+}
+
+#apTeamAndProjectManagement {
+	-fx-background-color: white;
+	-fx-background-radius: 15;
+}
+
+#teamManagement {
+	-fx-background-color:transparent;
+	-fx-background: white;
+}
+
+#projectManagement {
+	-fx-background-color:transparent;
+	-fx-background: white;
+}
+
+#activityManagement {
+	-fx-background-color:transparent;
+	-fx-background: white;
+}
+
+#totalButton {
+	-fx-pref-width: 80px;
+	-fx-pref-height: 25px;
+    -fx-background-color: linear-gradient(#e2e5b3, #f0f2d9);
+    -fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#totalButton:hover {
+	-fx-background-color: linear-gradient(#d3d88d, #c4cb67);
+}
+
+#yearButton {
+	-fx-pref-width: 80px;
+	-fx-pref-height: 25px;
+    -fx-background-color: linear-gradient(#bcddbb, #ddeedd);
+    -fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#yearButton:hover {
+	-fx-background-color: linear-gradient(#9acd98, #79bc76);
+}
+ 
+#elementButton {
+	-fx-pref-width: 80px;
+	-fx-pref-height: 25px;
+    -fx-background-color: linear-gradient(#e2e5b3, #f0f2d9);
+    -fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#elementButton:hover {
+	-fx-background-color: linear-gradient(#d3d88d, #c4cb67);
+}
+
+#locationButton {
+	-fx-pref-width: 80px;
+	-fx-pref-height: 25px;
+    -fx-background-color: linear-gradient(#bcddbb, #ddeedd);
+    -fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#locationButton:hover {
+	-fx-background-color: linear-gradient(#9acd98, #79bc76);
+}
+
+#memberButton {
+	-fx-pref-width: 80px;
+	-fx-pref-height: 25px;
+    -fx-background-color: linear-gradient(#f3bea5, #f9ded2);
+    -fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#memberButton:hover {
+	-fx-background-color: linear-gradient(#ed9d78, #e87c4a);
+}
+
+.default-color0.chart-series-line { -fx-stroke: #bcc5a1; }
+.default-color0.chart-line-symbol { -fx-background-color: #f3bea5, white; }
+
+.default-color0.chart-bar { -fx-bar-fill: #f3bea5; }
+.default-color1.chart-bar { -fx-bar-fill: #bcddbb; }
+.default-color2.chart-bar { -fx-bar-fill: #e2e5b3; }
+
+#budgetDateOptions {
+	-fx-pref-width: 160px;
+	-fx-pref-height: 25px;
+	-fx-background-color: linear-gradient(#c2d1f0, #d6e0f5);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#budgetDateOptions:hover {
+	-fx-cursor: hand;
+	-fx-background-color: linear-gradient(#adc2eb, #99b3e6);
+}
+#budgetDateOptions .list-view {
+    -fx-background-insets: 0;
+}
+#budgetDateOptions .list-view .list-cell:selected  {
+ 	-fx-background-color: linear-gradient(#c2d1f0, #d6e0f5);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+	-fx-text-fill: #4d4d4d;
+}
+#budgetDateOptions .list-view .list-cell:hover  {
+ 	-fx-background-color: linear-gradient(#adc2eb, #99b3e6);
+	-fx-background-radius: 40;
+    -fx-background-insets: 0;
+	-fx-text-fill: #4d4d4d;
+}
+
+#lbBudgetAmount:hover {
+	-fx-cursor: hand;
+}

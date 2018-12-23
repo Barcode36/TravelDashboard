@@ -1,0 +1,56 @@
+.button {
+	-fx-cursor: hand;
+}
+
+#apMenu {
+	-fx-background-color: white;
+	-fx-background-radius: 15;
+}
+
+#mainInMenu {
+	-fx-pref-width: 65px;
+	-fx-pref-height: 45px;
+    -fx-background-color: linear-gradient(#e2e5b3, #f0f2d9);
+    -fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#mainInMenu:hover {
+	-fx-background-color: linear-gradient(#d3d88d, #c4cb67);
+}
+
+#uploadInMenu {
+	-fx-pref-width: 65px;
+	-fx-pref-height: 45px;
+    -fx-background-color: linear-gradient(#bcddbb, #ddeedd);
+    -fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#uploadInMenu:hover {
+	-fx-background-color: linear-gradient(#9acd98, #79bc76);
+}
+
+#reportInMenu {
+	-fx-pref-width: 65px;
+	-fx-pref-height: 45px;
+    -fx-background-color: linear-gradient(#f3bea5, #f9ded2);
+    -fx-background-radius: 40;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#reportInMenu:hover {
+	-fx-background-color: linear-gradient(#ed9d78, #e87c4a);
+}
+
+#exitInMenu {
+	-fx-pref-width: 65px;
+	-fx-pref-height: 45px;
+    -fx-background-color: linear-gradient(#c2d1f0, #d6e0f5);
+    -fx-background-radius: 80;
+    -fx-background-insets: 0;
+    -fx-text-fill: #4d4d4d;
+}
+#exitInMenu:hover {
+	-fx-background-color: linear-gradient(#adc2eb, #99b3e6);
+}
