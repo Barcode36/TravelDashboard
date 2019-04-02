@@ -8,7 +8,6 @@
 
 [Video demo 2](https://drive.google.com/file/d/1auBNiIVwq8UYYonqe9d8jUaDnQDjSfjL/view?usp=sharing)
 
----
 
 ## General Info
 
