@@ -1,8 +1,8 @@
 # README
 
-![traveldashboard](traveldashboard.png)
+## Quick overview 
 
-Quick overview:
+![traveldashboard](traveldashboard.png)
 
 [Video demo 1](https://drive.google.com/file/d/1Tf5S7BkxvXtzKuC4AoLmNLPe-m87Q9V9/view?usp=sharing)
 
@@ -10,18 +10,7 @@ Quick overview:
 
 ---
 
-## TO MARKERS, PLEASE NOTE THAT BEFORE CHECKING THE CODE:
-
-The software's database is a temporary solution running from outside the university, and is blocked by the university fire wall due to security reason. The final solution is that Atos will use their own database, and the corresponding update will be done by Atos technical team. This is extremely important because you cannot directly run the software without database.
-
-However, you can try the system by: use an IP that will not block GoDaddy's database, then provide that IP to the database owner Zequn Yu (psyzy5@nottingham.ac.uk), so that the IP can be added into white list. Only if finished this, the software can be run perfectly.
-
-A runnable .exe file for Windows system is included in TravelDashboard/
-
-Or, there are two demo videos showing how the system works embedded in the open day's Prezi presentation file. The link is:
-http://prezi.com/7dcthzh6e37w/?utm_campaign=share&utm_medium=copy&rc=ex0share
-
-## General Information
+## General Info
 
 Git link:
 
