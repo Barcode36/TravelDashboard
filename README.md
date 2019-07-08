@@ -1,8 +1,8 @@
 # README
 
-## Quick overview 
-
 ![traveldashboard](traveldashboard.png)
+
+## Quick overview 
 
 [Video demo 1](https://drive.google.com/file/d/1Tf5S7BkxvXtzKuC4AoLmNLPe-m87Q9V9/view?usp=sharing)
 
